@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <router-view></router-view>
+  <router-link to="/md2sb">markdown-to-scrapbox</router-link>
 </template>
 
 <style scoped>
